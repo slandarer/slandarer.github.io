@@ -1,13 +1,13 @@
 # Site
-name: "Miral Achmed"
+name: "slandarer"
 description: "My Simple Personal Blog"
-meta_description: "Simple Personal Blog by Miral Achmed"
+meta_description: "Simple Personal Blog by slandarer"
 logo: 'assets/images/miral-achmed-1.png'
 favicon: 'favicon.ico'
-url: 'https://achmiral.id'
+url: 'https://slandarer.github.io'
 baseurl: ''
 google_analytics: 'UA-86909679-1'
-disqus: 'achmiral-id'
+disqus: 'slandarer.github.io'
 mailchimp-list: ''
 permalink: /:year/:month/:day/:title
 future: true
