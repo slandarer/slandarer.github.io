@@ -4,11 +4,14 @@ title:  "matlab官方库没有桑基图(sankey)？那就自己写一个！"
 author: slandarer
 categories: [ MATLAB, sankey ]
 image: https://img-blog.csdnimg.cn/20210621134205672.png
+image_external: true
 featured: false
 hidden: false
 ---
 
-这次主要是分享自己写的一个函数，用来绘制桑基图，效果大概是下面这样子：
+这次主要是分享自己写的一个函数，用来绘制桑基图。
+
+效果大概是下面这样子：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621134205672.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621134215819.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
 先说明函数(sankey2)怎么用，函数完整代码放在博客最后

@@ -4,6 +4,7 @@ title:  "使用MATLAB制作3D动态旋转相册"
 author: slandarer
 categories: [ MATLAB, 3D ]
 image: https://img-blog.csdnimg.cn/20210717160948559.jpg
+image_external: true
 featured: false
 hidden: false
 ---

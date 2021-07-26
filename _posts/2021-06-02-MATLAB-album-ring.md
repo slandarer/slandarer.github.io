@@ -4,6 +4,7 @@ title:  "毕业季，用MATLAB制作一款环形相册吧 !"
 author: slandarer
 categories: [ MATLAB]
 image: https://img-blog.csdnimg.cn/20210601200627288.png
+image_external: true
 featured: false
 hidden: false
 ---
