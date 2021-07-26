@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tingkatkan Kecepatan Navigasi Blog Anda Dengan Turbolinks
-author: slandarer
+author: miral
 categories: [ jekyll, turbolinks, tutorial ]
 image: assets/images/tubolinks-jekyll/turbolinks-jekyll.png
 image_external: false
