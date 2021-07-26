@@ -14,6 +14,7 @@ hidden: false
 效果大概是下面这样子：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621134205672.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621134215819.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
+
 先说明函数(sankey2)怎么用，函数完整代码放在博客最后
 ### 详细用法
 #### 1 使用示例
@@ -114,6 +115,7 @@ sankeyHdl=sankey2([],'XLim',[0,2],'YLim',[0,1],'PieceWidth',0.15,'List',List,'Co
 #### 3 输出
 函数的输出如下：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621140757890.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
+
 nameList就是每一个元素的名称，block是每一个方块的图形对象，connect是每一个连接的图形对象，txt是每一个标签的文本对象，我们可以做出以下操作：
 
 图形对象和文本对象原本自带的属性依旧可以用(颜色，位置，透明度，边缘粗细等等)
@@ -147,12 +149,14 @@ sankeyHdl=sankey2([],'XLim',[0,2],'YLim',[0,1],'PieceWidth',0.15,'List',List,'Co
 sankeyHdl.block(4).FaceColor=[0.8,0.3,0.3];
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621141243248.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
+
 操作2 把第10个方块的第一个连接变为红色
 
 ```java
 sankeyHdl.connect(10,1).FaceColor=[0.8,0.3,0.3];
 ```
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210621141325931.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
+
 操作3 把第11个标签文本放大
 
 ```java

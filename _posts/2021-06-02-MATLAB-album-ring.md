@@ -70,6 +70,7 @@ disMesh=sqrt(XMesh.^2+YMesh.^2);
 **theta角矩阵：**
 我们首先肯定能想到atan2,一个四象限反正弦函数，他的映射关系是这样的：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210601202724734.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3NsYW5kYXJlcg==,size_16,color_FFFFFF,t_70#pic_center)
+
 是从z值范围为-pi到pi，且是以x轴负半轴为0度角的，这里我们将其z值增加pi且将坐标轴翻转，就能得到theta角矩阵：
 
 ```java
