@@ -2,7 +2,7 @@
 name: "slandarer"
 description: "My Simple Personal Blog"
 meta_description: "Simple Personal Blog by slandarer"
-logo: 'assets/images/miral-achmed-1.png'
+logo: 'https://avatar.csdnimg.cn/6/D/0/1_slandarer_1611740599.jpg'
 favicon: 'favicon.ico'
 url: 'https://slandarer.github.io'
 baseurl: ''
@@ -20,9 +20,9 @@ authors:
     gravatar: 3654d753e5a623523e5190e7b3ec59e5
     email: miral.achmed@gmail.com
     web: https://slandarer.github.io 
-    twitter: https://twitter.com/achmiral
-    instagram: https://instagram.com/achmiral
-    description: "none"
+    twitter: "none"
+    instagram: "none"
+    description: "这个人很懒，什么都不想写！！"
 
 # Plugins
 plugins: 
