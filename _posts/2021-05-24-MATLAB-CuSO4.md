@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "嘘！我有特殊的绕线画技巧，教你用MATLAB绘制另一种绕线画"
+title:  "MATLAB 还只会画爱心？，教你画水晶簇以及水晶爱心"
 author: slandarer
-categories: [ MATLAB, 绕线画]
-image: https://img-blog.csdnimg.cn/20210526203453396.png
+categories: [ MATLAB, 爱心]
+image: https://img-blog.csdnimg.cn/20210524164909731.jpeg
 image_external: true
 featured: false
 hidden: false
