@@ -4,28 +4,108 @@ title: About Me
 comments: false
 ---
 
-#### Halo!!
 
-Selamat datang di blog pribadi saya. Blog ini berisi tulisan-tulisan saya selama belajar pemograman. Sebisa mungkin saya akan meluangkan waktu untuk mengupdate tulisan-tulisan di blog ini.
 
-#### Tentang Author
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>slandarer的简介</title>
+</head>
+<body>
 
-<center>
-  <img src="{{site.url}}/assets/images/about-photo.png" class="img-circle" alt="">
-</center>
-<br>
+<font color="#2F4A5D" size=3>
+    <b>
+    [0]这里是slandarer的个人博客</br>
+</b>
+</font>  
+<font color="#6A869B" size=2>
+    目前没有个人公众号,创建的时候会第一时间放在这个地方嗷</br>
+</font>
+<img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=300>
+<font color="#4A452A" size=2>
+    <br />
+    <br />
+    <b>
+    [1] 一些有趣的个人项目及小程序(点击图片或链接跳转博文)：</br> 
+</b>
+</font> 
 
-Perkenalkan nama saya Miral Achmed biasa dipanggil Miral.
-Sekarang saya bekerja sebagai `Junior Ruby Web Developer` di [Supersewa](https://supersewa.com). Saya alumni Universitas AMIKOM Yogyakarta. Sekarang berdomisili di Yogyakarta.
+<br />
+<marquee>
+    <a href="https://blog.csdn.net/slandarer/article/details/118521735"><font color="#7388C1" size=2>建筑工地海报生成器</font></a>&#160&#160
+    <a href="https://blog.csdn.net/slandarer/article/details/117451019"><font color="#625BA1" size=2>环形相册</font></a>&#160&#160
+    <a href="https://blog.csdn.net/slandarer/article/details/118161500"><font color="#8F63A2" size=2>举牌加油小人生成器</font></a>
+</marquee>
+<br />
+<marquee>
+    <a href="https://blog.csdn.net/slandarer/article/details/117304136"><font color="#426EB5" size=2>绕线画绘制？附带颜色渲染</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/116528717"><font color="#8272B0" size=2>真正意义上的拼图小游戏</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/116382472"><font color="#C7B7D2" size=2>突出效果海报</font></a>
+</marquee>
+<br />
+<marquee>
+    <a href="https://blog.csdn.net/slandarer/article/details/116325539"><font color="#6EC3C8" size=2>故障风海报</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/115800369"><font color="#7388C1" size=2>图片三角风格化 (low poly)</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/115709803"><font color="#9AD0D2" size=2>含褶皱面料图</font></a>&#160&#160
+    <a href="https://blog.csdn.net/slandarer/article/details/107160568"><font color="#6EC3C8" size=2>3D玫瑰花绘制</font></a>
+</marquee>
+<br />
+<marquee>
+    <a href="https://blog.csdn.net/slandarer/article/details/109558919"><font color="#2F4A5D" size=2>MATLAB 版大富翁</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/108734172"><font color="#C9E3D6" size=2>化学方程式配平</font></a>&#160&#160  
+    <a href="https://blog.csdn.net/slandarer/article/details/108120501"><font color="#99D1D2" size=2>连连看小游戏</font></a>&#160&#160
+    <a href="https://blog.csdn.net/slandarer/article/details/107636732"><font color="#7388C1" size=2>立体爱心九宫格</font></a>
+</marquee>
+<br />
+<font color="#A17C84" size=2>
+    <b>
+    <br />
+    >>好看的图片</br> 
+</b>
+</font> 
+<a href="https://blog.csdn.net/slandarer/article/details/117048623">
+    <img src="https://img-blog.csdnimg.cn/20210703202641236.png" width=115>
+</a>
+<a href="https://blog.csdn.net/slandarer/article/details/107160568">
+    <img src="https://img-blog.csdnimg.cn/20210703202652130.jpg" width=135>
+</a></br>
 
-Tiap _weekend_ saya biasa latihan _drone race_ bersama teman-teman pilot FPV drone yang ada di Jogja, beberapa video freestyle maupun video race saya dapat dilihat di akun instagram saya [@achmiral](https://instagram.com/achmiral).
+<a href="https://blog.csdn.net/slandarer/article/details/117226977">
+    <img src="https://img-blog.csdnimg.cn/20210703202715377.png" width=135>
+</a>
+<a href="https://blog.csdn.net/slandarer/article/details/110287590">
+    <img src="https://img-blog.csdnimg.cn/20210703202708152.png" width=115>
+</a>
 
-<center>
-  <img src="{{site.url}}/assets/images/new-fpv-rig.jpg" height="500" alt="New FPV Rig">
-</center>
+<font color="#A17C84" size=2>
+    <b>
+    <br />
+    <br />
+    >>帅气的特效</br> 
+    <br />
+</b>
+</font> 
+<a href="https://blog.csdn.net/slandarer/article/details/115457724">
+    <img src="https://img-blog.csdnimg.cn/20210703203917422.png" width=120>
+</a>
+<a href="https://blog.csdn.net/slandarer/article/details/115724116">
+    <img src="https://img-blog.csdnimg.cn/20210703203926961.jpg" width=125>
+</a>
+<font color="#A17C84" size=2>
+    <b>
+    <br />
+    <br />
+    >>app designer工具</br> 
+    <br />
+</b>
+</font> 
+<a href="https://blog.csdn.net/slandarer/article/details/115035583">
+    <img src="https://img-blog.csdnimg.cn/20210703204606872.jpg" width=400>
+</a></br>
 
-<br>
-
-Terima kasih sudah berkunjung di blog ini, saya berharap tulisan-tulisan di blog ini bisa menambah motivasi teman-teman untuk belajar pemrograman. 
-
-Salam Rubyist!!
+<a href="https://blog.csdn.net/slandarer/article/details/113797518">
+    <img src="https://img-blog.csdnimg.cn/20210703204532933.jpg" width=400>
+</a>
+</body>
+</html>
