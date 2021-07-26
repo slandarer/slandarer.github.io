@@ -27,7 +27,7 @@ comments: false
     <br />
     <br />  
     
-<img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=300>
+<img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=600>
 <font color="#4A452A" size=2>
     <br />
     <br />
@@ -70,21 +70,21 @@ comments: false
 </b>
 </font> 
 <a href="https://blog.csdn.net/slandarer/article/details/117048623">
-    <img src="https://img-blog.csdnimg.cn/20210703202641236.png" width=115>
+    <img src="https://img-blog.csdnimg.cn/20210703202641236.png" width=230>
 </a>
 <a href="https://blog.csdn.net/slandarer/article/details/107160568">
-    <img src="https://img-blog.csdnimg.cn/20210703202652130.jpg" width=135>
+    <img src="https://img-blog.csdnimg.cn/20210703202652130.jpg" width=270>
 </a>
     <br />
     <br />
 <a href="https://blog.csdn.net/slandarer/article/details/117226977">
-    <img src="https://img-blog.csdnimg.cn/20210703202715377.png" width=135>
+    <img src="https://img-blog.csdnimg.cn/20210703202715377.png" width=270>
 </a>
 <a href="https://blog.csdn.net/slandarer/article/details/110287590">
-    <img src="https://img-blog.csdnimg.cn/20210703202708152.png" width=115>
+    <img src="https://img-blog.csdnimg.cn/20210703202708152.png" width=230>
 </a>
 
-<font color="#A17C84" size=2>
+<font color="#A17C84" size=6>
     <b>
     <br />
     <br />
@@ -97,9 +97,9 @@ comments: false
     <img src="https://img-blog.csdnimg.cn/20210703203917422.png" width=300>
 </a>
 <a href="https://blog.csdn.net/slandarer/article/details/115724116">
-    <img src="https://img-blog.csdnimg.cn/20210703203926961.jpg" width=300>
+    <img src="https://img-blog.csdnimg.cn/20210703203926961.jpg" width=310>
 </a>
-<font color="#A17C84" size=2>
+<font color="#A17C84" size=6>
     <b>
     <br />
     <br />
