@@ -2,11 +2,11 @@
 name: "slandarer"
 description: "My Simple Personal Blog"
 meta_description: "Simple Personal Blog by slandarer"
-logo: 'assets/images/miral-achmed-1.png'
+logo: 'assets/images/slandarer.png'
 favicon: 'favicon.ico'
 url: 'https://slandarer.github.io'
 baseurl: ''
-google_analytics: 'UA-86909679-1'
+google_analytics: ''
 disqus: 'slandarer.github.io'
 mailchimp-list: ''
 permalink: /:year/:month/:day/:title
