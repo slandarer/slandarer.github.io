@@ -15,28 +15,34 @@ comments: false
 
 <font color="#2F4A5D" size=3>
     <b>
-    [0]这里是slandarer的个人博客</br>
+    [0]这里是slandarer的个人博客
 </b>
 </font>  
 <font color="#6A869B" size=2>
-    目前没有个人公众号,创建的时候会第一时间放在这个地方嗷</br>
+    <br />
+    <br />
+    目前没有个人公众号,创建的时候会第一时间放在这个地方嗷
 </font>
+    
+    <br />
+    <br />  
+    
 <img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=300>
 <font color="#4A452A" size=2>
     <br />
     <br />
     <b>
-    [1] 一些有趣的个人项目及小程序(点击图片或链接跳转博文)：</br> 
+    [1] 一些有趣的个人项目及小程序(点击图片或链接跳转博文)：
 </b>
 </font> 
 
+<br />
 <br />
 <marquee>
     <a href="https://blog.csdn.net/slandarer/article/details/118521735"><font color="#7388C1" size=2>建筑工地海报生成器</font></a>&#160&#160
     <a href="https://blog.csdn.net/slandarer/article/details/117451019"><font color="#625BA1" size=2>环形相册</font></a>&#160&#160
     <a href="https://blog.csdn.net/slandarer/article/details/118161500"><font color="#8F63A2" size=2>举牌加油小人生成器</font></a>
 </marquee>
-<br />
 <marquee>
     <a href="https://blog.csdn.net/slandarer/article/details/117304136"><font color="#426EB5" size=2>绕线画绘制？附带颜色渲染</font></a>&#160&#160  
     <a href="https://blog.csdn.net/slandarer/article/details/116528717"><font color="#8272B0" size=2>真正意义上的拼图小游戏</font></a>&#160&#160  
@@ -56,11 +62,11 @@ comments: false
     <a href="https://blog.csdn.net/slandarer/article/details/108120501"><font color="#99D1D2" size=2>连连看小游戏</font></a>&#160&#160
     <a href="https://blog.csdn.net/slandarer/article/details/107636732"><font color="#7388C1" size=2>立体爱心九宫格</font></a>
 </marquee>
-<br />
 <font color="#A17C84" size=2>
     <b>
     <br />
-    >>好看的图片</br> 
+    <br />
+    >>好看的图片
 </b>
 </font> 
 <a href="https://blog.csdn.net/slandarer/article/details/117048623">
@@ -68,8 +74,9 @@ comments: false
 </a>
 <a href="https://blog.csdn.net/slandarer/article/details/107160568">
     <img src="https://img-blog.csdnimg.cn/20210703202652130.jpg" width=135>
-</a></br>
-
+</a>
+    <br />
+    <br />
 <a href="https://blog.csdn.net/slandarer/article/details/117226977">
     <img src="https://img-blog.csdnimg.cn/20210703202715377.png" width=135>
 </a>
@@ -81,10 +88,11 @@ comments: false
     <b>
     <br />
     <br />
-    >>帅气的特效</br> 
-    <br />
+    >>帅气的特效
 </b>
 </font> 
+    <br />
+    <br />
 <a href="https://blog.csdn.net/slandarer/article/details/115457724">
     <img src="https://img-blog.csdnimg.cn/20210703203917422.png" width=120>
 </a>
@@ -95,10 +103,12 @@ comments: false
     <b>
     <br />
     <br />
-    >>app designer工具</br> 
+    >>app designer工具
     <br />
 </b>
 </font> 
+    <br />
+    <br />
 <a href="https://blog.csdn.net/slandarer/article/details/115035583">
     <img src="https://img-blog.csdnimg.cn/20210703204606872.jpg" width=400>
 </a></br>
