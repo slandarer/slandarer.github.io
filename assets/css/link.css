@@ -1,5 +1,5 @@
 .zhihu-logo {
-    background: #ffffff url(../images/skip-link-logo/zhihu.png) no-repeat center;
+    background-image: url(../images/skip-link-logo/zhihu.png);
     background-size: cover;
 }
 .csdn-logo {
