@@ -28,7 +28,7 @@ comments: false
     <br />  
     
 <img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=800>
-<font color="#4A452A" size=2>
+<font color="#4A452A" size=3>
     <br />
     <br />
     <b>
@@ -62,7 +62,7 @@ comments: false
     <a href="https://blog.csdn.net/slandarer/article/details/108120501"><font color="#99D1D2" size=2>连连看小游戏</font></a>
     <a href="https://blog.csdn.net/slandarer/article/details/107636732"><font color="#7388C1" size=2>立体爱心九宫格</font></a>
 </marquee>
-<font color="#A17C84" size=2>
+<font color="#A17C84" size=3>
     <b>
     <br />
     <br />
