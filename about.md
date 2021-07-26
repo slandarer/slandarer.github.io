@@ -27,7 +27,7 @@ comments: false
     <br />
     <br />  
     
-<img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=600>
+<img src="https://img-blog.csdnimg.cn/20210712170149802.gif" width=800>
 <font color="#4A452A" size=2>
     <br />
     <br />
