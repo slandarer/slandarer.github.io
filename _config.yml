@@ -2,7 +2,7 @@
 name: "slandarer"
 description: "My Simple Personal Blog"
 meta_description: "Simple Personal Blog by slandarer"
-logo: 'https://avatar.csdnimg.cn/6/D/0/1_slandarer_1611740599.jpg'
+logo: 'assets/images/miral-achmed-1.png'
 favicon: 'favicon.ico'
 url: 'https://slandarer.github.io'
 baseurl: ''
