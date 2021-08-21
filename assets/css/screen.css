@@ -551,6 +551,8 @@ License: https://www.wowthemes.net/freebies-license/
      box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.30);
 }
  img {
+    display: block;
+    margin: 0 auto;
     max-width:100%;
 }
  .bottompagination span.navigation {
@@ -649,16 +651,5 @@ License: https://www.wowthemes.net/freebies-license/
  .card .img-fluid {
     width:100%;
 }
-.markdown-body img { 
-    /* 图片居中 */
-    clear: both;
-    margin: 0 auto;
-    display: block;
-  
-    /* 添加图片阴影 */
-    box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-    webkit-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-    moz-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-    o-box-shadow:0px 1px 4px rgba(0,0,0,0.3),0 0 40px rgba(0,0,0,0.1) inset;
-  }
+
   
